@@ -21,3 +21,19 @@ An exploratory geospatial project investigating agricultural resilience to clima
 ## Status
 
 Project initiated June 2026.
+
+## Progress
+
+### Phase 1: Foundations
+
+- [x] Create repository
+- [x] Setup development environment
+- [x] Configure Google Earth Engine
+- [x] Load Sentinel-2 imagery
+- [x] Display first satellite image
+
+### Next
+
+- [ ] Load Makueni County boundary
+- [ ] Compute NDVI
+- [ ] Create first NDVI map
