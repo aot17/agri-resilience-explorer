@@ -24,16 +24,14 @@ Project initiated June 2026.
 
 ## Progress
 
-### Phase 1: Foundations
-
-- [x] Create repository
-- [x] Setup development environment
-- [x] Configure Google Earth Engine
-- [x] Load Sentinel-2 imagery
-- [x] Display first satellite image
+### Foundations
+- [x] Repository setup
+- [x] Earth Engine authentication
+- [x] Sentinel-2 access
+- [x] Makueni study area
+- [x] Monthly Sentinel-2 composite
 
 ### Next
-
-- [ ] Load Makueni County boundary
 - [ ] Compute NDVI
-- [ ] Create first NDVI map
+- [ ] Visualize NDVI
+- [ ] Extract county-level NDVI statistics
