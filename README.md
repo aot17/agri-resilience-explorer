@@ -24,14 +24,30 @@ Project initiated June 2026.
 
 ## Progress
 
-### Foundations
-- [x] Repository setup
-- [x] Earth Engine authentication
-- [x] Sentinel-2 access
-- [x] Makueni study area
-- [x] Monthly Sentinel-2 composite
+### Completed
 
-### Next
-- [ ] Compute NDVI
-- [ ] Visualize NDVI
-- [ ] Extract county-level NDVI statistics
+- [x] Google Earth Engine setup
+- [x] Makueni County study area
+- [x] Sentinel-2 imagery workflow
+- [x] NDVI computation
+- [x] Monthly NDVI time series (2023–2024)
+
+### In Progress
+
+- [ ] Rainfall time series (CHIRPS)
+- [ ] Drought detection
+- [ ] Vegetation recovery metrics
+- [ ] Resilience indicators
+
+## First Results
+
+Monthly average NDVI for Makueni County (2023–2024)
+
+![NDVI Time Series](docs/images/makueni_ndvi_timeseries.png)
+
+Initial observations:
+
+- NDVI exhibits a clear seasonal pattern.
+- Vegetation levels tend to peak between December and May.
+- January 2023 appears less vegetated than January 2024.
+- Future work will investigate whether rainfall differences explain this pattern.
