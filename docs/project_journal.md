@@ -48,3 +48,19 @@ Build a monthly NDVI time series for Makueni County.
 
 - Build monthly rainfall time series using CHIRPS.
 - Compare rainfall and NDVI trends.
+
+## 2026-06-11
+
+### Rainfall–Vegetation Relationship
+
+Correlation between monthly NDVI and rainfall:
+
+- Current month rainfall: 0.35
+- Rainfall lagged by 1 month: 0.69
+- Rainfall lagged by 2 months: 0.54
+
+Observation:
+
+Vegetation appears to respond more strongly to rainfall from the previous month than to rainfall occurring in the same month.
+
+This suggests a lagged vegetation response, likely due to the time required for rainfall to affect soil moisture and plant growth.
